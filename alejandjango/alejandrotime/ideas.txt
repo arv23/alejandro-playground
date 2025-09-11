@@ -1,0 +1,6 @@
+tradelist -
+app for listing things for trade from your discogs collection.
+compare with other users see if you have anything in your wantlist that is in their collection and vice versa
+create a list just for trades
+user rep
+separate login with discogs auth
